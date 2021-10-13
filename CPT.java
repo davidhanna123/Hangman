@@ -1,5 +1,5 @@
 // The "Hangman Game"
-//David and Ryan
+//David Hanna
 import java.awt.*;
 import hsa.Console;
 import java.io.*;
